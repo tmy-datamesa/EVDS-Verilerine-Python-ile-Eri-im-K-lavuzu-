@@ -1,7 +1,6 @@
 # 📊 EVDS Verilerine Python ile Erişim Kılavuzu
 
 Bu repo, **Türkiye Cumhuriyet Merkez Bankası (TCMB)** tarafından sunulan **Elektronik Veri Dağıtım Sistemi (EVDS)** API’sine Python üzerinden nasıl erişileceğini adım adım gösterir.  
-Kılavuzun video anlatımı:  
 
 ---
 
@@ -125,7 +124,6 @@ plt.show()
 
 - [📘 TCMB EVDS Resmî Sitesi](https://evds2.tcmb.gov.tr/)
 - [📦 evds Python Paketi (PyPI)](https://pypi.org/project/evds/)
-- [🎥 Data Masası YouTube Kanalı](https://www.youtube.com/@DataMasasi)
 
 
 
